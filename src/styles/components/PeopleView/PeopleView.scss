@@ -1,0 +1,44 @@
+.peopleView{
+  display: flex;
+  flex-direction: column;
+  margin-left: 100px;
+  margin-right: 100px;
+  &__info{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: 0.0125em;
+    color: #333333;
+  }
+  &__description{
+    &--specs{
+      display: flex;
+      justify-content: space-between;
+      border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+      margin: 0;
+      height: 49px;
+      &--attribute{
+        color: #828282;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-style: normal;
+        font-weight: bold;
+        display: flex;
+        font-size: 17px;
+        letter-spacing: 0.0125em;
+        margin-top: 17px;
+      }
+      &--content{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 17px;
+        display: flex;
+        letter-spacing: 0.0125em;
+        color: #333333;
+        text-transform: capitalize;
+      }
+    }
+  }
+}
