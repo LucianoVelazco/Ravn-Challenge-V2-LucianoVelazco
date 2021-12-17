@@ -50,8 +50,6 @@ This project requires npm.
 ![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/npm/react?label=react)
 ![Libraries.io dependency status for latest release, scoped npm package](https://img.shields.io/librariesio/release/npm/@apollo/client?label=apollo-client)
 ![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/npm/graphql?label=graphql)
-![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/npm/styled-components?label=styled-components)
-![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/npm/react-icons?label=react-icons)
 
 ## Configurations
 ### Webpack
